@@ -1,0 +1,5 @@
+{
+  "name": "BarComanda AI",
+  "description": "Sistema moderno de gerenciamento de bar e comandas com assistente de mixologia integrado via Gemini AI.",
+  "requestFramePermissions": []
+}

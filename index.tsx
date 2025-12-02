@@ -1,0 +1,1 @@
+// File deprecated. Logic moved to index.html/script.js for XAMPP compatibility.
